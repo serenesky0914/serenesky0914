@@ -30,8 +30,8 @@
 <table>
     <thead align="center">
         <tr>
-            <td>NFT Mint Dapps</td>
-            <td>NFT Mint Dapps</td>           
+            <td>NFT Swap Dapp</td>
+            <td>NFT Mint Dapp</td>           
             <td>NFT Marketplaces</td>
             <td>DEX</td>
         </tr>
@@ -39,17 +39,17 @@
     <tbody>
         <tr>
             <td>
+                <a href="https://trader.xyz/" target="_blank">
+                    <img src="img/trader.png?raw=true" width="200">
+                    <p align="center">Trader</p>
+                </a>
+            </td>
+            <td>
                 <a href="https://theragnarregiment.com/" target="_blank">
                     <img src="img/Ragnarregiment.png?raw=true" width="200">
                     <p align="center">The Ragnar Regiment</p>
                 </a>
             </td>
-            <td>
-                <a href="https://cryptopigs.one/">
-                    <img src="img/CryptoPig.png?raw=true" width="200">
-                    <p align="center">CryptoPigs</p>
-                </a>
-            </td>           
             <td>
                 <a href="https://latitud.art/">
                     <img src="img/latitud.png?raw=true" width="200">
