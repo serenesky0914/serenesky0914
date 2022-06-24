@@ -1,4 +1,4 @@
-### Thanks for your visit my github! &nbsp; 👨👩
+### Thanks for visiting my github! &nbsp; 👨👩
   My passion is to create beautiful, intuitive websites and applications, and to develop elegant solutions to complex problems.
   Programming is something anyone can do with PM skills, but it is difficult to find a programmer who can work on various projects clearly and neatly.
   My area of expertise is full stack (Angular, React, Vue, and Node.js, php...) technology, and I am also versed in Solidity and RUST coding.
