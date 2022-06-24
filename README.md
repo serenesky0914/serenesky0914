@@ -19,6 +19,11 @@
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
   <tr>
+      <td><img src="img/javascript-1174950.png" width="200"></td>
+      <td><img src="img/node-1174925.webp" width="200"></td>
+      <td><img src="img/react-1175109.webp" width="200"></td>
+      <td>![angular](https://user-images.githubusercontent.com/100112375/175528495-b46edac3-f722-4e43-bc80-ae47607a7ec3.png)</td>
+      <td><img src="img/vue-282497.webp" width="200"></td>
       <td><img src="img/icon_nft.png?raw=true" width="200"></td>
       <td><img src="img/icon_defi.png?raw=true" width="200"></td>
       <td><img src="img/icon_bitcoin.png?raw=true" width="200"></td>
@@ -27,9 +32,6 @@
       <td><img src="img/icon_pancake.png?raw=true" width="200"></td>
       <td><img src="img/icon_truffle.png?raw=true" width="200"></td>
       <td><img src="img/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="img/javascript-1174950.png" width="200"></td>
-      <td><img src="img/node-1174925.webp" width="200"></td>
-      <td><img src="img/react-1175109.webp" width="200"></td>
-      <td><img src="img/vue-282497.webp" width="200"></td>
+    
   </tr>  
 </table>
