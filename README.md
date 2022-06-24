@@ -33,14 +33,3 @@
       <td><img src="img/vue-282497.webp" width="200"></td>
   </tr>  
 </table>
-
-### Blockchain
-
-#### ⚡ BlockChain Skills : 
-
-★ LGE, ICO, IDO, Presale, DEX, ERC-20, ERC-223, ERC-721, ERC-1155, IPFS, Smart Contract Development & Audit</br>
-★ Blockchain stack : Web3, Ethers, Solidity, Infura, Truffle, Hardhat, MIST/Remix</br>
-★ Language stack : Solidity | Rust | Python | Javascript | Dart | Golang</br>
-★ Wallets & Clients : MEW, Geth, Parity, Mist, Metamask, Exodus, Ganache</br>
-★ API Development & Integration :
-blockchain.info, inrura.io, poloniex.com, bitfinex.com, hitbtc.com, coinbase.com, kraken.com, cex.io, coinmarketcap.com, cryptokitties.co, uniswap.org, aave.com, opensea.io, etherscan.com
