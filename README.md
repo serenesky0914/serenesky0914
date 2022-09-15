@@ -11,23 +11,3 @@ I'm striving to be a complete business software solution provider for blockchain
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=serenesky0914&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenesky0914&layout=compact" />
 </div> -->
-
-### 𝐒𝐤𝐢𝐥𝐥s
-<table>
-  <tr>
-      <td><img src="img/javascript-1174950.png" width="200"></td>
-      <td><img src="img/node-1174925.webp" width="200"></td>
-      <td><img src="img/react-1175109.webp" width="200"></td>
-      <td><img src="https://user-images.githubusercontent.com/100112375/175528599-3bf2ccde-c5db-496e-bbb5-12205b784fba.png" width="200"></td>
-      <td><img src="img/vue-282497.webp" width="200"></td>
-      <td><img src="img/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="img/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="img/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="img/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="img/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="img/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="img/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="img/icon_pivx.png?raw=true" width="200"></td>
-    
-  </tr>  
-</table>
